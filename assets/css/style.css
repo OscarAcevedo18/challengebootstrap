@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:500,300");
+
+body {
+font-family: "Roboto", sans-serif;
+}
+.container-fluid{
+    background-color: #28A745;
+    justify-content: flex-end;
+}
+.colorfondo{
+  background-color: #28A745;
+  margin-bottom: 20px;
+}
+
+.card-body,
+.card-title,
+.form-control,
+.button{
+  font-weight: lighter;
+  font-size: 20px;
+}
+.text-secondary{
+  color: #28A745;
+  font-size: 15px;
+}
+.recibe,
+.oferta
+.button {
+  font-weight: 500;
+  font-size: large;
+}
+
+.main{
+  background-color: #28A745;
+}
